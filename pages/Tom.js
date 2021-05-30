@@ -1,6 +1,6 @@
 import React from 'react'
 
-function App() {
+export default function App() {
   const canvasRef = React.useRef(null)
   return (
     <canvas
