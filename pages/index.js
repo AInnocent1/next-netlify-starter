@@ -5,8 +5,6 @@ import Canvas from '@components/Canvas'
 
 export default function Home() {
   return (
-    
-    <div className="container">
       <Head>
         <title>Hello World!</title>
       </Head>
