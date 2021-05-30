@@ -14,10 +14,8 @@ export default function Home() {
 
       <main>
         <Header title="Hello Conor and other world citizens!"/>
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-    <canvas id="canvas" width="100%" height="100%"></canvas>
+        <Header title="BULLET TIME!"/>
+        <canvas id="canvas" width="100%" height="100%"></canvas>
         </div>
         </main>
     </div>
