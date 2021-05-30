@@ -6,9 +6,7 @@ import Canvas from '@components/Canvas'
 export default function Home() {
   return (
       <div className="container">
-    <div className="canvas">
-        <canvas id="canvas" width="100%" height="100%"></canvas>
-        </div>
+   
       <Head>
         <title>Hello World!</title>
       </Head>
@@ -20,5 +18,8 @@ export default function Home() {
         </p>
         
       </main>
+     <div className="canvas">
+        <canvas id="canvas" width="100%" height="100%"></canvas>
+        </div>
     </div>
     )}
