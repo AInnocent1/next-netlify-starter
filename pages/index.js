@@ -16,8 +16,10 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+    <body style="background:black; width:100%; height:100%">
+        <canvas id="c" style="display: block;"></canvas>
+    </body>
       </main>
-    <Canvas id="c"/>
     </div>
   )
 }
