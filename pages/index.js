@@ -8,6 +8,7 @@ export default function Home() {
     
     <div className="container">
     <div className="canvas">
+    <canvas id="canvas" width="100%" height="100%"></canvas>
       <Head>
         <title>Hello World!</title>
       </Head>
@@ -15,7 +16,7 @@ export default function Home() {
       <main>
         <Header title="Hello Conor and other world citizens!"/>
         <Header title="BULLET TIME!"/>
-        <canvas id="canvas" width="100%" height="100%"></canvas>
+        
         </div>
         </main>
     </div>
