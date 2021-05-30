@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import Canvas from '@components/Canvas'
+import React from 'react'
 export default function Home() {
   return (
       <div className="container" width="100%" height="100%">
