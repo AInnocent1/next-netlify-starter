@@ -19,8 +19,7 @@ export default function Home() {
         </p>
     <canvas id="canvas" width="100%" height="100%"></canvas>
         </div>
-        
-      </main>
+        </main>
     </div>
     
     )}
