@@ -11,10 +11,6 @@ export default function Home() {
 
       <main>
         <Header title="Hello Conor and other world citizens!"/>
-        <Header title="BULLET TIME!"/>
-        
-        </div>
         </main>
-    </div>
     
     )}
