@@ -17,4 +17,6 @@ export default function Home() {
         </p>
       </main>
     </div>
+    <div className="canvas">
+    </div>
     )}
