@@ -19,6 +19,6 @@ export default function Home() {
       </main>
     </div>
     <div className="Canvas">
-    <Canvas></>
+    </div>
   )
 }
