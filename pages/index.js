@@ -16,6 +16,8 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
         <div className="canvas">
+        <canvas id="canvas" width="100%" height="100%"></canvas>
+
         </div>
       </main>
     </div>
