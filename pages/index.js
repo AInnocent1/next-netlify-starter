@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import Canvas from '@components/Canvas'
 
 export default function Home() {
   return (
@@ -16,8 +17,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
-
-      <Footer />
+    <Canvas id="c"/>
     </div>
   )
 }
