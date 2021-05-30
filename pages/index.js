@@ -22,9 +22,7 @@ export default function Home() {
         <canvas id="c" width="100%" height="100%"></canvas>
         </div>
     </div>
-    
-    )}
-var c = document.getElementById("c");
+    var c = document.getElementById("c");
 var ctx = c.getContext("2d");
 
 //making the canvas full screen
@@ -74,3 +72,5 @@ function draw()
 }
 
 setInterval(draw, 33);
+    
+    )}
