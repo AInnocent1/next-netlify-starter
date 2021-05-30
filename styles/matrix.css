@@ -9,7 +9,7 @@ h1 {
 }
 div {
   margin: auto;
-  width: 100%;
+  width: 75%;
   border: 3px solid green;
   padding: 10px;
 }
