@@ -9,6 +9,7 @@ export default function Home() {
     <div className="container">
     <div className="canvas">
     <canvas id="canvas" width="100%" height="100%"></canvas>
+    </div>
       <Head>
         <title>Hello World!</title>
       </Head>
