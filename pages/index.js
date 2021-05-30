@@ -5,7 +5,7 @@ import Canvas from '@components/Canvas'
 
 export default function Home() {
   return (
-      <div className="container">
+      <div className="container" width="100%" height="100%">
    
       <Head>
         <title>Hello World!</title>
