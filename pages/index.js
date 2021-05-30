@@ -11,13 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hello Conor and other world citizens!" />
+        <Header title="Hello Conor and other world citizens!"/>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-      <
       </main>
-    </div>
-    <div className="Canvas">
     </div>
 }
